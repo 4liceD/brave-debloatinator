@@ -1,3 +1,4 @@
+# Disclaimer This is an edited version with custom startpage
 # brave-debullshitinator
 Removes unnecessary bloat from Brave Browser.
 
