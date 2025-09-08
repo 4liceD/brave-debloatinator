@@ -5,7 +5,7 @@ echo "This is an edited version with custom startpage"
 # Make dir
 sudo mkdir /etc/brave/policies/managed -p
 # Download file
-wget https://raw.githubusercontent.com/4liceD/brave-debloatinator/refs/heads/main/policies.json
+wget https://raw.githubusercontent.com/4liceD/brave-debloatinator/refs/heads/main/brave_debullshitinator-policies.json
 sudo cp brave_debullshitinator-policies.json /etc/brave/policies/managed
 rm brave_debullshitinator-policies.json
 # End
